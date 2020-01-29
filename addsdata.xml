@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>one.jpg</ImageUrl>
+    <NavigateUrl>login.aspx</NavigateUrl>
+    <AlternateText>wait</AlternateText>
+      <Impressions>20</Impressions>
+      <Keyword>google</Keyword>
+    </Ad>
+  <Ad>
+    <ImageUrl>two.jpg</ImageUrl>
+    <NavigateUrl>login.aspx</NavigateUrl>
+    <AlternateText>wait</AlternateText>
+    <Impressions>10</Impressions>
+    <Keyword>youtube</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>three.jpg</ImageUrl>
+    <NavigateUrl>login.aspx</NavigateUrl>
+    <AlternateText>wait</AlternateText>
+    <Impressions>12</Impressions>
+    <Keyword>facebook</Keyword>
+  </Ad>
+
+</Advertisements>
